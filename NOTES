@@ -1,0 +1,6 @@
+Program should work like...
+
+1. Welcome user
+2. These are today's new Netflix releases!
+3. Which would you like more information about?
+4. Gives the user the movies name, release year, description, runtime, language, genre, and cast.
