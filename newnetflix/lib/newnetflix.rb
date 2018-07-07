@@ -1,5 +1,2 @@
-require "newnetflix/version"
-
-module Newnetflix
-  # Your code goes here...
-end
+require_relative "./newnetflix/version"
+require_relative "./newnetflix/cli"
