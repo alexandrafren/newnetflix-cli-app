@@ -1,7 +1,7 @@
 class Newnetflix::CLI
 
   def call
-    puts "Todays Netflix Shows"
+    puts "Welcome to New Netflix! Today is . The new shows on Netflix today are:"
     list_new_shows
     menu
   end
